@@ -10,5 +10,6 @@
 Решение 1
 
 ![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/389952993b61930fa6b5728631bec66a8f512015/img/jenkins1.jpg)
+![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/7d8ae9daecd346bc7065eea070f25f609c98a47e/img/jenkins2.jpg)
 
 
