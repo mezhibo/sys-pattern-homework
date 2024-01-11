@@ -8,6 +8,7 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 Решение 1
+
 ![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/389952993b61930fa6b5728631bec66a8f512015/img/jenkins1.jpg)
 
 
