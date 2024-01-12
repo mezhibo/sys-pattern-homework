@@ -48,3 +48,16 @@
 
 ![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/b707c01179ac9043a052a5ab0b796001688eee56/img/NEXUS2.png)
 
+Создаем новую джобу которая будет отправлять на удаленную репу нексуса файил README.md
+
+![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/b0248ff4db6fe27998d5cf54c7fe8a3bd3e5c38e/img/jenkins7.jpg)
+
+Запускаем пайплайн и получаем SUCCESS
+
+![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/b0248ff4db6fe27998d5cf54c7fe8a3bd3e5c38e/img/jenkins8.jpg)
+
+Идем в нексус и смотрим что появился наш фаилик README.md
+
+![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/b0248ff4db6fe27998d5cf54c7fe8a3bd3e5c38e/img/jenkins9.jpg)
+
+
