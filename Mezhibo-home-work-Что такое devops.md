@@ -40,3 +40,11 @@
 
 Решение 3
 
+Устновим Nexus 
+
+![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/b707c01179ac9043a052a5ab0b796001688eee56/img/NEXUS1.png)
+
+Создаем репозиторий
+
+![ALT TEXT](https://github.com/mezhibo/sys-pattern-homework/blob/b707c01179ac9043a052a5ab0b796001688eee56/img/NEXUS2.png)
+
